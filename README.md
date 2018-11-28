@@ -1,3 +1,0 @@
-# helloworld_KJ
-
-README?!~
